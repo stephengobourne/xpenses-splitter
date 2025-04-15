@@ -1,3 +1,2 @@
 # xpenses-splitter
-A.D Project:
-My project is about creating a simple software that can split expenses between a group of people effectively, to make the whole process simpler.
+A.D Project: The goal of my project here is to have a easier way available for people to split expenses in a whatever setting they are in. 
