@@ -1,6 +1,6 @@
 #place to test project code
 #ran code, list to change:
-#words, date format, more menu options?, add usd format, find out what vat means?
+#change words, change date format, more menu options?, add usd format, find out what vat means?, change the prices starting at those random numbers (make actual prices)
 from tkinter import *
 import random
 import time
