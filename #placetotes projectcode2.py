@@ -1,4 +1,6 @@
 #place to test project code
+#ran code, list to change:
+#words, date format, more menu options?, add usd format, find out what vat means?
 from tkinter import *
 import random
 import time
